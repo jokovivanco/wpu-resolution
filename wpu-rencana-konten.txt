@@ -2,9 +2,11 @@ wpu rencana konten
 - JavaScript
   * ES6
   * Framework JavaScript
-    * Angular
+    * Vue
     * React
+- Fundamental Data Structure
 - PHP Framework
   * Laravel
 - Interview
 - Vlog
+- Python
