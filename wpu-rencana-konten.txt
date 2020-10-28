@@ -2,6 +2,7 @@ wpu rencana konten
 - JavaScript
   * ES6
   * Framework JavaScript
+- Fundamental Data Structure
 - PHP Framework
 - Interview
 - Vlog
