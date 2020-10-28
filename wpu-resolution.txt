@@ -1,0 +1,10 @@
+WPU Resolution
+- Learn Git and GitHub fundamentally
+- Understanding Basic Terminal Usage
+- Learn and Study Data Structure and Algorithms
+- What is Licenses?
+- What is Semantic Versioning?
+- SSH
+- Understanding HTTP/HTTPS and APIs
+- What is Design Pattern?
+- Character Encoding
