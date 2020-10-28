@@ -8,3 +8,6 @@ WPU Resolution
 - Understanding HTTP/HTTPS and APIs
 - What is Design Pattern?
 - Character Encoding
+- HTML
+- CSS
+- JavaScript
