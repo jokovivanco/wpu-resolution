@@ -9,5 +9,3 @@ WPU Resolution
 - What is Design Pattern?
 - Character Encoding
 - HTML
-- CSS
-- JavaScript
